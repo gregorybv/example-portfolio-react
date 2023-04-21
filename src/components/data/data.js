@@ -30,7 +30,7 @@ import team3 from "../../assets/images/testimonials/team-3.png"
 
 import b1 from "../../assets/images/blog/b1.png"
 import b2 from "../../assets/images/blog/b2.png"
-import b3 from "../../assets/images/blog/b3.png"
+import b3 from "../../assets/images/blog/b3.jpg"
 
 import man from "../../assets/images/man.png"
 
@@ -151,42 +151,42 @@ export const portfolio = [
     cover: port1,
     name: "Brand",
     category: "marketing",
-    title: "Brex Logo",
+    title: "Grey Logo",
   },
   {
     id: 2,
     cover: port2,
     name: "Brand",
     category: "design",
-    title: "Brex Logo",
+    title: "Grey Logo",
   },
   {
     id: 3,
     cover: port3,
     name: "Brand",
     category: "development",
-    title: "Brex Logo",
+    title: "Grey Logo",
   },
   {
     id: 4,
     cover: port4,
     name: "Brand",
     category: "marketing",
-    title: "Brex Logo",
+    title: "Grey Logo",
   },
   {
     id: 5,
     cover: port5,
     name: "Brand",
     category: "design",
-    title: "Brex Logo",
+    title: "Grey Logo",
   },
   {
     id: 6,
     cover: port6,
     name: "Brand",
     category: "development",
-    title: "Brex Logo",
+    title: "Grey Logo",
   },
 ]
 export const testimonials = [

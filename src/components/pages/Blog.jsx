@@ -12,7 +12,7 @@ export const Blog = () => {
             {blog.map((item) => (
               <div className='box' data-aos='flip-left'>
                 <div className='img' data-aos='fade-up'>
-                  <img src={item.cover} alt='' data-aos='fade-down' />
+                  <img className="blog__img" src={item.cover} alt='' data-aos='fade-down' />
                 </div>
                 <div className='text'>
                   <h3 data-aos='fade-right'>{item.title}</h3>
