@@ -203,7 +203,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Eddie Brock",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "./images/blog/b1.png",
+    cover: "../../../public/images/blog/b1.png",
   },
   {
     id: 2,
@@ -211,7 +211,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Bruce Wayne",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "./images/blog/b2.png",
+    cover: "../../../public/images/blog/b2.png",
   },
   {
     id: 3,
@@ -219,7 +219,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Steve Rogers",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "./images/blog/b3.png",
+    cover: "../../../public/images/blog/b3.png",
   },
 ]
 export const contact = [
