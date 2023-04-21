@@ -24,6 +24,14 @@ import port4 from '../../assets/images/port/port4.jpg'
 import port5 from '../../assets/images/port/port5.jpg'
 import port6 from '../../assets/images/port/port6.jpg'
 
+import team1 from "../../assets/images/testimonials/team-1.png"
+import team2 from "../../assets/images/testimonials/team-2.png"
+import team3 from "../../assets/images/testimonials/team-3.png"
+
+import b1 from "../../assets/images/blog/b1.png"
+import b2 from "../../assets/images/blog/b2.png"
+import b3 from "../../assets/images/blog/b3.png"
+
 export const navlink = [
   {
     url: "/",
@@ -183,21 +191,21 @@ export const testimonials = [
   {
     id: 1,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "../../assets/images/testimonials/team-1.png",
+    image: team1,
     name: "Thomas Shelby",
     post: "Front End Developer",
   },
   {
     id: 2,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "../../assets/images/testimonials/team-2.png",
+    image: team2,
     name: "Ragnar Lothbrok",
     post: "Back End Developer",
   },
   {
     id: 3,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "../../assets/images/testimonials/team-3.png",
+    image: team3,
     name: "Thor Odinson",
     post: "React Developer",
   },
@@ -209,7 +217,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Eddie Brock",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "../../assets/images/blog/b1.png",
+    cover: b1,
   },
   {
     id: 2,
@@ -217,7 +225,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Bruce Wayne",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "../../assets/images/blog/b2.png",
+    cover: b2,
   },
   {
     id: 3,
@@ -225,7 +233,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Steve Rogers",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "../../assets/images/blog/b3.png",
+    cover: b3,
   },
 ]
 export const contact = [
