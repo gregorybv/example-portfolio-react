@@ -1,5 +1,6 @@
 {
-  "name": "alamin-port",
+  "name": "portfolio",
+  "homepage": "https://tomerpacific.github.io/example-portfolio-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "aos": "^3.0.0-beta.6",
     "framer-motion": "^6.5.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-countup": "^6.3.0",
     "react-dom": "^18.2.0",
@@ -24,6 +26,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
