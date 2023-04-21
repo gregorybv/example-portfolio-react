@@ -17,6 +17,12 @@ import {
   Instagram,
   YouTube,
 } from "@mui/icons-material"
+import port1 from '../../../public/images/port/port1.jpg'
+import port2 from '../../../public/images/port/port2.jpg'
+import port3 from '../../../public/images/port/port3.jpg'
+import port4 from '../../../public/images/port/port4.jpg'
+import port5 from '../../../public/images/port/port5.jpg'
+import port6 from '../../../public/images/port/port6.jpg'
 
 export const navlink = [
   {
@@ -132,42 +138,42 @@ export const project = [
 export const portfolio = [
   {
     id: 1,
-    cover: "../../../public/images/port/port1.jpg",
+    cover: port1,
     name: "Brand",
     category: "marketing",
     title: "Brex Logo",
   },
   {
     id: 2,
-    cover: "../../../public/images/port/port2.jpg",
+    cover: port2,
     name: "Brand",
     category: "design",
     title: "Brex Logo",
   },
   {
     id: 3,
-    cover: "../../../public/images/port/port3.jpg",
+    cover: port3,
     name: "Brand",
     category: "development",
     title: "Brex Logo",
   },
   {
     id: 4,
-    cover: "../../../public/images/port/port4.jpg",
+    cover: port4,
     name: "Brand",
     category: "marketing",
     title: "Brex Logo",
   },
   {
     id: 5,
-    cover: "../../../public/images/port/port5.jpg",
+    cover: port5,
     name: "Brand",
     category: "design",
     title: "Brex Logo",
   },
   {
     id: 6,
-    cover: "../../../public/images/port/port6.jpg",
+    cover: port6,
     name: "Brand",
     category: "development",
     title: "Brex Logo",
