@@ -17,12 +17,12 @@ import {
   Instagram,
   YouTube,
 } from "@mui/icons-material"
-import port1 from '../../../public/images/port/port1.jpg'
-import port2 from '../../../public/images/port/port2.jpg'
-import port3 from '../../../public/images/port/port3.jpg'
-import port4 from '../../../public/images/port/port4.jpg'
-import port5 from '../../../public/images/port/port5.jpg'
-import port6 from '../../../public/images/port/port6.jpg'
+import port1 from '../../assets/images/port/port1.jpg'
+import port2 from '../../assets/images/port/port2.jpg'
+import port3 from '../../assets/images/port/port3.jpg'
+import port4 from '../../assets/images/port/port4.jpg'
+import port5 from '../../assets/images/port/port5.jpg'
+import port6 from '../../assets/images/port/port6.jpg'
 
 export const navlink = [
   {
@@ -183,21 +183,21 @@ export const testimonials = [
   {
     id: 1,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "./images/testimonials/team-1.png",
+    image: "../../assets/images/testimonials/team-1.png",
     name: "Thomas Shelby",
     post: "Front End Developer",
   },
   {
     id: 2,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "./images/testimonials/team-2.png",
+    image: "../../assets/images/testimonials/team-2.png",
     name: "Ragnar Lothbrok",
     post: "Back End Developer",
   },
   {
     id: 3,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "./images/testimonials/team-3.png",
+    image: "../../assets/images/testimonials/team-3.png",
     name: "Thor Odinson",
     post: "React Developer",
   },
@@ -209,7 +209,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Eddie Brock",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "../../../public/images/blog/b1.png",
+    cover: "../../assets/images/blog/b1.png",
   },
   {
     id: 2,
@@ -217,7 +217,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Bruce Wayne",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "../../../public/images/blog/b2.png",
+    cover: "../../assets/images/blog/b2.png",
   },
   {
     id: 3,
@@ -225,7 +225,7 @@ export const blog = [
     date: "Jun 27, 2022",
     author: "Steve Rogers",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-    cover: "../../../public/images/blog/b3.png",
+    cover: "../../assets/images/blog/b3.png",
   },
 ]
 export const contact = [
