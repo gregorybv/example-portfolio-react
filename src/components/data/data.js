@@ -192,21 +192,21 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Front End Developer is a term used to refer to a professional who develops the user-facing part of a website or application. The role of a Front End Developer involves the creation of visually appealing and interactive interfaces using a combination of HTML, CSS, and JavaScript.",
     image: team1,
     name: "Thomas Shelby",
     post: "Front End Developer",
   },
   {
     id: 2,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Back-end developer - a specialist who deals with the software and administrative part of the web application, the internal content of the system, the server technologies - database, architecture, software logic.",
     image: team2,
     name: "Ragnar Lothbrok",
     post: "Back End Developer",
   },
   {
     id: 3,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "What is a React developer? A React developer designs and creates JavaScript-based applications for web or mobile environments. They typically specialize in front-end development.",
     image: team3,
     name: "Thor Odinson",
     post: "React Developer",
