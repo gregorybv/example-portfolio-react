@@ -204,6 +204,19 @@ section {
   width: 65%;
 }
 
+.about__button{
+  max-width: 220px;
+  width: 100%;
+}
+
+.about__link{
+  color: var(--sliver)
+}
+
+.about__link_silver:hover{
+  color: var(--sliver)
+}
+
 /*---------about-------------*/
 .grid3 {
   display: grid;
@@ -251,17 +264,21 @@ section {
 /*---------counter-------------*/
 /*---------portfolio-------------*/
 
-article {
+.portfolio {
   margin-top: 50px;
   margin-bottom: 80px;
 }
 
-article img {
+.portfolio img {
   width: 100%;
   height: 100%;
 }
 
-article .box {
+.portfolio__button:hover{
+  background: var(--primaryColor);
+}
+
+.portfolio .box {
   position: relative;
   transition: 0.5s;
 }
