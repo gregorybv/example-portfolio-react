@@ -36,7 +36,7 @@ import man from "../../assets/images/man.png"
 
 export const navlink = [
   {
-    url: "/",
+    url: "",
     text: "Home",
   },
   {
