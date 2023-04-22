@@ -76,7 +76,8 @@ export const home = [
 export const about = [
   {
     desc: "As a frontend developer, I have specialized skills and knowledge in website and web application development, including HTML, CSS and JavaScript. I am involved in creating user interfaces that provide a user-friendly application for clients and users.",
-    desc1: "In addition, I have experience with various libraries and frameworks such as React and Vue.js. I am also familiar with design principles and can do UI and UX related tasks. Overall, I can create high quality web applications that fully meet the needs of users and businesses.",
+    desc1:
+      "In addition, I have experience with various libraries and frameworks such as React and Vue.js. I am also familiar with design principles and can do UI and UX related tasks. Overall, I can create high quality web applications that fully meet the needs of users and businesses.",
     cover: man,
   },
 ]
