@@ -20,12 +20,12 @@ export const Portfolio = () => {
 
   return (
     <>
-      <article>
+      <article className="portfolio">
         <div className='container'>
           <Heading title='Portfolio' />
           <div className='catButton'>
             {category.map((category) => (
-              <button className='primaryBtn' onClick={() => filterItems(category)} data-aos='zoom-out-down'>
+              <button className='portfolio__button primaryBtn' onClick={() => filterItems(category)} data-aos='zoom-out-down'>
                 {category}
               </button>
             ))}
