@@ -214,10 +214,10 @@ export const testimonials = [
 export const blog = [
   {
     id: 1,
-    title: "Master These Awesome",
+    title: "Learn Programming Skills",
     date: "Jun 27, 2022",
     author: "Eddie Brock",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    desc: "Programming skills are essential in today's technology-driven world. From building software applications to designing websites and maintaining databases, programming skills are in high demand across industries.",
     cover: b1,
   },
   {
@@ -225,7 +225,7 @@ export const blog = [
     title: "Best Design Items to Appeal",
     date: "Jun 27, 2022",
     author: "Bruce Wayne",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    desc: "Use of Color: Color can evoke emotion and set the tone of a design. Use of colors that are harmonious and in-line with the brand can help create a cohesive and visually appealing design.",
     cover: b2,
   },
   {
@@ -233,7 +233,7 @@ export const blog = [
     title: "The 20 Best Lightroom Presets",
     date: "Jun 27, 2022",
     author: "Steve Rogers",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    desc: "Lightroom presets are an efficient way to edit and enhance your photos. There are thousands of presets available online, but the best ones offer a unique style and look.",
     cover: b3,
   },
 ]
