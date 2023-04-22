@@ -75,9 +75,8 @@ export const home = [
 ]
 export const about = [
   {
-    desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    desc1:
-      "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
+    desc: "As a frontend developer, I have specialized skills and knowledge in website and web application development, including HTML, CSS and JavaScript. I am involved in creating user interfaces that provide a user-friendly application for clients and users.",
+    desc1: "In addition, I have experience with various libraries and frameworks such as React and Vue.js. I am also familiar with design principles and can do UI and UX related tasks. Overall, I can create high quality web applications that fully meet the needs of users and businesses.",
     cover: man,
   },
 ]
@@ -86,37 +85,37 @@ export const services = [
     id: 1,
     icon: <Settings />,
     title: "Creative Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Creative design refers to the process of developing new ideas, concepts, and solutions that are both innovative and visually appealing.",
   },
   {
     id: 2,
     icon: <CropRotate />,
     title: "Clean Code",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: '"Clean Code" is a term used to describe well-organized and readable code that is easy to understand, modify, and maintain.',
   },
   {
     id: 3,
     icon: <ViewInAr />,
     title: "Responsive Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Responsive design is a web design approach that aims to create websites that adapt and respond to the size and behavior of a user's screen.",
   },
   {
     id: 4,
     icon: <PieChart />,
     title: "Material UI	",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Material UI is a popular library of React components that follows Google's material design guidelines.",
   },
   {
     id: 5,
     icon: <Code />,
     title: "Material UI Icons",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Material UI Icons are a collection of stylized icons that can be used in web and app design.",
   },
   {
     id: 6,
     icon: <BarChart />,
     title: "Awesome Support",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: '"Awesome Support" is a phrase commonly used to describe exceptional customer service.',
   },
 ]
 export const project = [
