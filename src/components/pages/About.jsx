@@ -16,8 +16,22 @@ export const About = () => {
                 <Heading title='About Me' />
                 <p>{val.desc}</p>
                 <p>{val.desc1}</p>
-                <button>Download CV</button>
-                <button className='primaryBtn'>Download CV</button>
+                <button className='about__button' type='button'>
+                  <a
+                    className='about__link about__link_silver'
+                    href='https://gregorybv.github.io/my-portfolio/'
+                  >
+                    Learn more
+                  </a>
+                </button>
+                <button type='button' className='about__button primaryBtn'>
+                  <a
+                    className='about__link'
+                    href='https://gregorybv.github.io/react-portfolio/'
+                  >
+                    Find out more
+                  </a>
+                </button>
               </div>
             </>
           ))}
