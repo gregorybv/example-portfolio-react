@@ -74,7 +74,7 @@ button {
 }
 
 .fontSize {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .primaryBtn {
@@ -175,6 +175,10 @@ section {
   font-size: 60px;
   font-weight: 600;
   color: var(--primaryColor);
+}
+
+.hero__button:hover{
+  background: var(--primaryColor);
 }
 
 /*---------hero-------------*/
