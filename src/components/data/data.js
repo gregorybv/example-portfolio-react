@@ -123,19 +123,19 @@ export const project = [
   {
     id: 1,
     icon: <CloudOutlined />,
-    num: "16",
+    num: "33",
     title: "HAPPY CLIENTS",
   },
   {
     id: 2,
     icon: <FavoriteBorder />,
-    num: "92",
+    num: "102",
     title: "COMPLETED PROJECTS",
   },
   {
     id: 3,
     icon: <Public />,
-    num: "108",
+    num: "141",
     title: "FILES DOWNLOADED",
   },
   {
